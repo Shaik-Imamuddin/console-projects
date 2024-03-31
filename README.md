@@ -37,3 +37,12 @@
 ->if all the conditions are fail then the computer will win
 ->it will be having in infinite loop
 ->another variable play until play=="no" it will go for the next turn.
+
+#calculator project
+->In This project it will displays the options like 
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+->based on the condition it will displays the block of statements.
+->if the next_calculation=="no" then the loop should be breaked
