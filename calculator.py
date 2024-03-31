@@ -1,5 +1,5 @@
 while True:
-    print("Select operation\n1.Add\n2.Subtract\n3.Multiply\n4.Divide")
+    print("Select operation\n1.Addition\n2.Subtraction\n3.Multiplication\n4.Division")
     choice = input("Enter choice(1/2/3/4): ")
     if choice not in ('1', '2', '3', '4'):
         print("Invalid input!")
