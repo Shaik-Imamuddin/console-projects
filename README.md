@@ -45,4 +45,4 @@
 3.Multiplication
 4.Division
 ->based on the condition it will displays the block of statements.
-->if the next_calculation=="no" then the loop should be breaked
+->if the next_calculation=="no" then the loop should be terminated
