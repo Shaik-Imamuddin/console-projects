@@ -22,7 +22,7 @@
 ->if ok it will print a statement as Booking sucessfull.
 
 #snake and ladders
-->in this projects
+->in this project
 ->it will contains of 2 dictionaries one for snakes and one for ladders which will having keys and values
 ->there is a function called move which will returns the current position
 ->there will be having an infinite loop
@@ -46,3 +46,13 @@
 4.Division
 ->based on the condition it will displays the block of statements.
 ->if the next_calculation=="no" then the loop should be terminated
+
+#To-Do List
+->In This project it will displays the options like 
+1. Add Task
+2. Remove Task
+3. Display Tasks
+4. Exit
+->I had taken an empty list it will append the tasks to the list
+->In the same way we can remove and display the tasks of the list
+->Until you go for choice 4 it will repeatedly iterate the loop.
