@@ -56,3 +56,8 @@
 ->I had taken an empty list it will append the tasks to the list
 ->In the same way we can remove and display the tasks of the list
 ->Until you go for choice 4 it will repeatedly iterate the loop.
+
+#Number Guessing Game
+->it will generate a random number between 1 to 10
+->we have to guess the correct number with in 3 chances 
+->else we lost the game
