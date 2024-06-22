@@ -61,3 +61,15 @@
 ->it will generate a random number between 1 to 10
 ->we have to guess the correct number with in 3 chances 
 ->else we lost the game
+
+#Contact List
+->In This project it will displays the options like 
+1. Add Contact
+2. View Contact
+2. Search Contact
+3. Delete Contact
+4. Exit
+->I had taken an empty Dictionary it will assign the name and number to Dictionary by using indexing 
+->In the same way we can View, Search and Delete the Contacts in the Dictionary
+->Until you go for choice 5 it will repeatedly iterate the loop.
+
